@@ -35,5 +35,3 @@ jobs:
 
     - name: Run test suite
       run: composer run-script test
-    - name: Run phpspec
-      run: vendor/bin/phpspec run
