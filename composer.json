@@ -1,0 +1,16 @@
+{
+    "name": "mochan/lcsols",
+    "description": "lcsols",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Mochan Shrestha",
+            "email": "git@mochan.info"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpspec/phpspec": "^7.0"
+    },
+    "autoload": {"psr-0": {"": "src"}}
+}
